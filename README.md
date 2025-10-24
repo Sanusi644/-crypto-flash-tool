@@ -22,3 +22,13 @@ A simple script that allows you to send fake cryptocurrencies (USDT, BTC, BNB) t
 
 1. Install the required dependencies:
 
+pkg update && pkg upgrade
+pkg install git gcc make clang libtool autoconf g++ libreadline-dev zlib1g-dev libssl-dev libcurl4-openssl-dev build-essential libboost-dev libboost-system-dev libboost-filesystem-dev libboost-program-options-dev libboost-thread-dev liblua5.2-dev libevent-dev uuid-dev
+
+
+Copy
+
+2. Clone the repository:
+
+git clone https://github.com/sanusi644/crypto-flash-tool.git
+cd crypto-flash-tool
